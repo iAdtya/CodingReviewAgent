@@ -1,0 +1,6 @@
+fastapi[standard]
+langchain
+openai
+celery
+langchain-openai
+python-dotenv
